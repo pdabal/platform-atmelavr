@@ -1,4 +1,4 @@
-# Atmel AVR: development platform for [PlatformIO](http://platformio.org)
+# Atmel AVR: development platform for [PlatformIO](http://platformio.org) 
 [![Build Status](https://travis-ci.org/platformio/platform-atmelavr.svg?branch=develop)](https://travis-ci.org/platformio/platform-atmelavr)
 [![Build status](https://ci.appveyor.com/api/projects/status/ympddo5w1osqx6qr/branch/develop?svg=true)](https://ci.appveyor.com/project/ivankravets/platform-atmelavr/branch/develop)
 
